@@ -1,0 +1,18 @@
+{
+    "name": "gleb/composer-task",
+    "autoload": {
+        "psr-4": {
+            "Gleb\\ComposerTask\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GlebMikloshevich",
+            "email": "glebmikloshevich@gmail.com"
+        }
+    ],
+    "require": {
+	
+	
+	}
+}
